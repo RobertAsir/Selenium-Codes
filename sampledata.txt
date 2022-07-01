@@ -1,3 +1,4 @@
 Welcome to python
+python is simple to learn
 
 
